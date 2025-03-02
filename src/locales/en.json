@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "title": "Technological innovation for your company",
+    "subtitle": "We develop customized solutions that transform complex processes into efficient and scalable workflows.",
+    "button": "Discover solutions",
+    "contact": "Contact us"
+  },
+  "features": {
+    "title": "Technological Solutions",
+    "subtitle": "Our solutions combine the best of custom development, SaaS, and automation to transform your company's operations",
+    "feature1": "Cost Reduction",
+    "description1": "Optimize your technology investment with solutions that automate repetitive tasks and eliminate redundancies",
+    "feature2": "Process Optimization",
+    "description2": "Transform complex workflows into efficient sequences with intelligent automation",
+    "feature3": "Universal Integration",
+    "description3": "We connect our solutions with your existing systems through custom APIs and middlewares",
+    "feature4": "Custom Development",
+    "description4": "We create software 100% adapted to your specific needs and business model",
+    "feature5": "Advanced Security",
+    "description5": "We implement robust security protocols to safeguard your business data",
+    "feature6": "Agile Implementation",
+    "description6": "Agile methodologies that allow incremental and functional deliveries in reduced times"
+  },
+  "benefits": {
+    "title": "Key benefits",
+    "description": "We automate and optimize processes to digitally transform your business",
+    "1": {
+      "title": "Increased productivity",
+      "description": "Improve your team's efficiency with solutions that streamline daily work",
+      "stats": "35%",
+      "highlight": "productivity increase"
+    },
+    "2": {
+      "title": "Cost reduction",
+      "description": "Eliminate inefficiencies and reduce operational expenses with our technology",
+      "stats": "40%",
+      "highlight": "savings in operational costs"
+    },
+    "3": {
+      "title": "Improved decision making",
+      "description": "Accurate and up-to-date data for informed and strategic decisions",
+      "stats": "28%",
+      "highlight": "improvement in strategic decisions"
+    }
+  },
+  "testimonials": {
+    "title": "What our clients say",
+    "subtitle": "Companies that have optimized their operations with our technological solutions",
+    "testimonial1": {
+      "quote": "Thanks to Gamon's automation solutions, we reduced our processing times by 65% and significantly improved the accuracy of our operations.",
+      "name": "Laura Sánchez",
+      "title": "CTO, LogiTech Solutions"
+    },
+    "testimonial2": {
+      "quote": "The custom software that Gamon developed for our company completely transformed our inventory and order management. The investment was recovered in less than 6 months.",
+      "name": "Andrés Méndez",
+      "title": "Operations Director, IndustriaPlus"
+    },
+    "testimonial3": {
+      "quote": "The SaaS platform we implemented with Gamon allowed us to expand our business to new markets without proportionally increasing our operational costs.",
+      "name": "Carolina Torres",
+      "title": "CEO, GlobalTrade"
+    }
+  },
+  "pricing": {
+    "title": "Our services",
+    "subtitle": "Choose the plan that best suits your needs",
+    "plan1": {
+      "title": "Basic",
+      "description": "Ideal for small businesses",
+      "price": "from $499/month",
+      "features": [
+        "Custom development",
+        "Basic technical support",
+        "Monthly updates",
+        "1 active project"
+      ]
+    },
+    "plan2": {
+      "title": "Standard",
+      "description": "Perfect for growing businesses",
+      "price": "from $999/month",
+      "features": [
+        "Everything in Basic",
+        "Priority support",
+        "Advanced integrations",
+        "3 active projects"
+      ]
+    },
+    "plan3": {
+      "title": "Premium",
+      "description": "For large enterprises",
+      "price": "from $1,999/month",
+      "features": [
+        "Everything in Standard",
+        "24/7 support",
+        "Dedicated development",
+        "Unlimited projects"
+      ]
+    },
+    "footer": {
+      "included": "All our plans include initial requirements analysis and custom design.",
+      "needCustom": "Need a specific solution?",
+      "contactUs": "Contact us",
+      "forCustomQuote": "for a custom quote."
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "question1": "What kind of solutions do you offer?",
+    "answer1": "We offer custom software solutions, web and mobile application development, and technology consulting.",
+    "question2": "How can I request a demo?",
+    "answer2": "You can request a demo through our contact form or by calling our phone number."
+  },
+  "cta": {
+    "title": "Ready to transform your business?",
+    "subtitle": "Contact us today and discover how Gamon can help you achieve your goals.",
+    "button": "Contact us",
+    "description": "Connect with our team for a no-obligation consultation",
+    "button1": "Request demo",
+    "button2": "View documentation",
+    "free": "First consultation free"
+  },
+  "footer": {
+    "copyright": "© 2024 Gamon. All rights reserved.",
+    "description": "Cutting-edge artificial intelligence solutions to drive your business into the future.",
+    "product": {
+      "title": "Product",
+      "cases": "Success Cases",
+      "docs": "Documentation"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "team": "Team",
+      "blog": "Blog",
+      "press": "Press"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "gdpr": "GDPR"
+    },
+    "languages": {
+      "es": "Español",
+      "en": "English",
+      "pt": "Português"
+    }
+  },
+  "menu": {
+    "solutions": "Solutions",
+    "benefits": "Benefits",
+    "testimonials": "Testimonials",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "video": "Video"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're here to help. Get in touch with us and we'll get back to you as soon as possible.",
+    "name": "Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent!",
+    "successMessage": "We'll get back to you soon.",
+    "error": "Error sending message",
+    "phone": {
+      "title": "Call us",
+      "number": "+1 (234) 567-890"
+    },
+    "email": {
+      "title": "Email us",
+      "address": "contact@gamon.com"
+    },
+    "chat": {
+      "title": "Live chat",
+      "available": "Available 24/7"
+    }
+  },
+  "notFound": {
+    "title": "Page not found"
+  },
+  "welcomeVideo": {
+    "title": "Discover Gamon",
+    "subtitle": "Watch our presentation video and learn how our solutions can transform your business",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "unsupported": "Your browser does not support HTML5 video.",
+    "companyIntro": "Gamon Introduction",
+    "share": "Share"
+  }
+} 

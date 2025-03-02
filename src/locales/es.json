@@ -1,0 +1,210 @@
+{
+  "hero": {
+    "title": "Innovación tecnológica para tu empresa",
+    "subtitle": "Desarrollamos soluciones personalizadas que transforman procesos complejos en flujos de trabajo eficientes y escalables.",
+    "button": "Descubrir soluciones",
+    "buttonLink": "/contact",
+    "contact": "Contáctanos"
+  },
+  "features": {
+    "title": "Soluciones Tecnológicas",
+    "subtitle": "Nuestras soluciones combinan lo mejor del desarrollo personalizado, SaaS y automatización para transformar las operaciones de tu empresa",
+    "feature1": "Reducción de Costos",
+    "description1": "Optimiza tu inversión tecnológica con soluciones que automatizan tareas repetitivas y eliminan redundancias",
+    "feature2": "Optimización de Procesos",
+    "description2": "Transforma flujos de trabajo complejos en secuencias eficientes con automatización inteligente",
+    "feature3": "Integración Universal",
+    "description3": "Conectamos nuestras soluciones con tus sistemas existentes mediante APIs personalizadas y middlewares",
+    "feature4": "Desarrollo a Medida",
+    "description4": "Creamos software 100% adaptado a tus necesidades específicas y modelo de negocio",
+    "feature5": "Seguridad Avanzada",
+    "description5": "Implementamos protocolos de seguridad robustos para salvaguardar los datos de tu empresa",
+    "feature6": "Implementación Ágil",
+    "description6": "Utilizamos metodologías ágiles para entregar valor de forma incremental y adaptarnos a los cambios"
+  },
+  "benefits": {
+    "title": "Beneficios clave",
+    "description": "Automatizamos y optimizamos procesos para transformar tu negocio digitalmente",
+    "1": {
+      "title": "Aumento de la productividad",
+      "description": "Mejora la eficiencia de tu equipo con soluciones que agilizan el trabajo diario",
+      "stats": "35%",
+      "highlight": "de aumento en productividad"
+    },
+    "2": {
+      "title": "Reducción de costos",
+      "description": "Elimina ineficiencias y reduce gastos operativos con nuestra tecnología",
+      "stats": "40%",
+      "highlight": "de ahorro en costos operativos"
+    },
+    "3": {
+      "title": "Mejora en la toma de decisiones",
+      "description": "Datos precisos y actualizados para decisiones fundamentadas y estratégicas",
+      "stats": "28%",
+      "highlight": "de mejora en decisiones estratégicas"
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Empresas que han optimizado sus operaciones con nuestras soluciones tecnológicas",
+    "testimonial1": {
+      "quote": "Gracias a las soluciones de automatización de Gamon, redujimos nuestros tiempos de procesamiento en un 65% y mejoramos la precisión de nuestras operaciones significativamente.",
+      "name": "Laura Sánchez",
+      "title": "CTO, LogiTech Solutions"
+    },
+    "testimonial2": {
+      "quote": "El software a medida que Gamon desarrolló para nuestra empresa transformó completamente nuestra gestión de inventarios y pedidos. La inversión se recuperó en menos de 6 meses.",
+      "name": "Andrés Méndez",
+      "title": "Director de Operaciones, IndustriaPlus"
+    },
+    "testimonial3": {
+      "quote": "La plataforma SaaS que implementamos con Gamon nos permitió expandir nuestro negocio a nuevos mercados sin incrementar proporcionalmente nuestros costos operativos.",
+      "name": "Carolina Torres",
+      "title": "CEO, GlobalTrade"
+    }
+  },
+  "pricing": {
+    "title": "Nuestros servicios",
+    "subtitle": "Elige el plan que mejor se adapte a tus necesidades",
+    "plan1": {
+      "title": "Básico",
+      "description": "Ideal para pequeñas empresas",
+      "price": "desde $499/mes",
+      "features": [
+        "Desarrollo personalizado",
+        "Soporte técnico básico",
+        "Actualizaciones mensuales",
+        "1 proyecto activo"
+      ]
+    },
+    "plan2": {
+      "title": "Estándar",
+      "description": "Perfecto para empresas en crecimiento",
+      "price": "desde $999/mes",
+      "features": [
+        "Todo lo del plan Básico",
+        "Soporte prioritario",
+        "Integraciones avanzadas",
+        "3 proyectos activos"
+      ]
+    },
+    "plan3": {
+      "title": "Premium",
+      "description": "Para grandes empresas",
+      "price": "desde $1,999/mes",
+      "features": [
+        "Todo lo del plan Estándar",
+        "Soporte 24/7",
+        "Desarrollo dedicado",
+        "Proyectos ilimitados"
+      ]
+    },
+    "footer": {
+      "included": "Todos nuestros planes incluyen análisis inicial de requerimientos y diseño personalizado.",
+      "needCustom": "¿Necesitas una solución específica?",
+      "contactUs": "Contáctanos",
+      "forCustomQuote": "para un presupuesto personalizado."
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Respuestas a las dudas más comunes sobre nuestros servicios y tecnologías",
+    "question1": "¿Cuánto tiempo tarda el desarrollo de un proyecto personalizado?",
+    "answer1": "El tiempo de desarrollo varía según la complejidad del proyecto. Proyectos pequeños pueden completarse en 4-6 semanas, mientras que soluciones empresariales complejas pueden requerir 3-6 meses. En nuestra metodología ágil, entregamos módulos funcionales progresivamente.",
+    "question2": "¿Cómo se integran sus soluciones con nuestros sistemas actuales?",
+    "answer2": "Nuestro equipo técnico realiza un análisis de compatibilidad para determinar las mejores estrategias de integración. Desarrollamos APIs personalizadas y middlewares según sea necesario. Tenemos experiencia integrando con SAP, Microsoft Dynamics, Salesforce y Oracle.",
+    "question3": "¿Ofrecen soporte técnico continuo después de la implementación?",
+    "answer3": "Sí, todos nuestros proyectos incluyen soporte técnico post-implementación. Además, ofrecemos planes de mantenimiento y soporte continuo que incluyen actualizaciones, monitoreo preventivo y atención prioritaria.",
+    "question4": "¿Qué metodologías de desarrollo utilizan?",
+    "answer4": "Trabajamos principalmente con metodologías ágiles como Scrum y Kanban que permiten una colaboración constante, adaptación a cambios y entrega incremental de valor.",
+    "question5": "¿Cómo garantizan la seguridad de nuestros datos?",
+    "answer5": "Implementamos prácticas de seguridad de nivel empresarial, incluyendo encriptación de datos, autenticación multifactor y controles de acceso basados en roles. Cumplimos con GDPR e ISO 27001."
+  },
+  "cta": {
+    "title": "¿Listo para transformar tu negocio?",
+    "subtitle": "Contáctanos hoy mismo y descubre cómo Gamon puede ayudarte a alcanzar tus objetivos.",
+    "button": "Contáctanos",
+    "description": "Conecta con nuestro equipo para una consulta sin compromiso",
+    "button1": "Solicitar demo",
+    "button2": "Ver documentación",
+    "free": "Primera consulta gratuita"
+  },
+  "footer": {
+    "copyright": "© 2024 Gamon. Todos los derechos reservados.",
+    "description": "Soluciones de inteligencia artificial de vanguardia para impulsar tu negocio hacia el futuro.",
+    "product": {
+      "title": "Producto",
+      "cases": "Casos de Éxito",
+      "docs": "Documentación"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nosotros",
+      "team": "Equipo",
+      "blog": "Blog",
+      "press": "Prensa"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Términos de Servicio",
+      "privacy": "Política de Privacidad",
+      "cookies": "Política de Cookies",
+      "gdpr": "GDPR"
+    },
+    "languages": {
+      "es": "Español",
+      "en": "English",
+      "pt": "Português"
+    }
+  },
+  "menu": {
+    "solutions": "Soluciones",
+    "benefits": "Beneficios",
+    "testimonials": "Testimonios",
+    "services": "Servicios",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "video": "Video"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Estamos aquí para ayudarte. Contáctanos y te responderemos lo antes posible.",
+    "name": "Nombre",
+    "namePlaceholder": "Ingresa tu nombre completo",
+    "emailField": "Correo electrónico",
+    "emailPlaceholder": "ejemplo@correo.com",
+    "message": "Mensaje",
+    "messagePlaceholder": "¿En qué podemos ayudarte?",
+    "send": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado!",
+    "successMessage": "Nos pondremos en contacto contigo pronto.",
+    "error": "Error al enviar el mensaje",
+    "phone": {
+      "title": "WhatsApp",
+      "number": "+55 55 984595745"
+    },
+    "email": {
+      "title": "Escríbenos",
+      "address": "gamoncompany@gmail.com"
+    },
+    "chat": {
+      "title": "Chat en vivo",
+      "available": "Disponible 24/7"
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada"
+  },
+  "welcomeVideo": {
+    "title": "Descubre Gamon",
+    "subtitle": "Mira nuestro video de presentación y conoce cómo nuestras soluciones pueden transformar tu negocio",
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "mute": "Silenciar",
+    "unmute": "Activar sonido",
+    "unsupported": "Tu navegador no soporta videos HTML5.",
+    "companyIntro": "Introducción a Gamon",
+    "share": "Compartir"
+  }
+} 

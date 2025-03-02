@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Aplicar variables de modo oscuro directamente a :root */
+  :root {
+    --background: 250 20% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 250 20% 10%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 250 20% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 270 75% 60%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 260 25% 20%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 250 20% 15%;
+    --muted-foreground: 250 10% 70%;
+
+    --accent: 260 40% 20%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 250 20% 18%;
+    --input: 250 20% 18%;
+    --ring: 270 75% 60%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "ss01", "ss02", "cv01", "cv02", "cv03";
+    color-scheme: dark;
+  }
+
+  /* Estilos para elementos específicos */
+  .bg-white {
+    @apply bg-gray-900;
+  }
+
+  .text-black {
+    @apply text-white;
+  }
+
+  .border-gray-200 {
+    @apply border-gray-700;
+  }
+}
+
+@layer components {
+  /* Clases para efectos de vidrio */
+  .glass {
+    @apply bg-black/50 backdrop-blur-md border border-white/10;
+  }
+
+  .card-gradient {
+    background: linear-gradient(
+      135deg,
+      rgba(var(--primary), 0.2),
+      rgba(var(--accent), 0.2)
+    );
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+}
